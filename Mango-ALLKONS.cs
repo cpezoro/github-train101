@@ -59,3 +59,11 @@ win_item po_material_price
         "CompanyId":"1dcdaa45-f3db-4384-95d3-c06b95ba1873"
     }
 }
+
+
+
+- กรณีไม่มีไฟล์ Form มีปัญหา
+- เส้นเรียกเอกสาร PO Read เอกสาร po 
+- ถ้าไม่ได้ Form  ให้ยิง Get มา ไม่เกิน7วัน
+
+mango confrim 10 may
